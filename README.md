@@ -1,4 +1,3 @@
-# Nostra-Website-clone
 # Nostra Website Clone
 
 ## Project Overview
