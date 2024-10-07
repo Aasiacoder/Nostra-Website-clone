@@ -23,7 +23,7 @@ body {
 /*Navbar*/
 #navbar-section {
     position: sticky;
-    z-index: 20;
+    z-index: 4;
     top: 0;
     background-color: #FFFFFF;
     color: #1D232C;
